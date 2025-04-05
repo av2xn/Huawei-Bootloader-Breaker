@@ -21,13 +21,11 @@ It's useful for older Huawei devices where official bootloader unlock codes are 
 **💻 On Linux / macOS:**
 ```
 python3 Bootloader-Breaker.py
-python3 Bootloader-Breaker.py 1234567890123456
 ```
 
 **🪟 On Windows (if Python is installed):**
 ```
 python Bootloader-Breaker.py
-python Bootloader-Breaker.py 1234567890123456
 ```
 
 🛑 You can interrupt the script at any time using `Ctrl + C`.  
