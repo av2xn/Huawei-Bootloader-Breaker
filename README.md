@@ -16,9 +16,9 @@ Features:
 
 Usage:
 
-On Linux / macOS: python3 Bootloader-Breaker.py 
+    On Linux / macOS: python3 Bootloader-Breaker.py 
 
-On Windows (if Python is installed): python Bootloader-Breaker.py 
+    On Windows (if Python is installed): python Bootloader-Breaker.py 
 
 You can interrupt the script at any time with Ctrl + C.
 The script will stop immediately without saving the last tried code — this is by design to keep it lightweight.
