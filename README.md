@@ -12,7 +12,7 @@ This tool attempts to find the correct OEM unlock code by automatically sending 
  Starts from a default code (1000000000000000) or a custom one via CLI argument
  No file creation, no bloat — just pure brute-force
  Clean loop with real-time output
- 
+
 🧠 Usage
 
  On Linux / macOS:
